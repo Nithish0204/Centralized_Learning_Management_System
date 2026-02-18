@@ -86,7 +86,7 @@ Lms/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Nithish0204/Centralized_Learning_Management_System
 cd Lms
 ```
 
